@@ -11,6 +11,7 @@ SimpleWeightedGraphs = "47aef6b3-ad0c-573a-a1e2-d07658019622"
 
 [compat]
 LightGraphs = "1"
+Revise = "3"
 SimpleWeightedGraphs = "1.2"
 julia = "^1"
 
